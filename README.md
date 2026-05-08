@@ -81,13 +81,7 @@ Real-time chat built with security-first architecture using Node.js and Socket.i
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-
-
-</div>
 
 ---
 
