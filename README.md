@@ -85,9 +85,7 @@ Real-time chat built with security-first architecture using Node.js and Socket.i
 
 <div align="center">
 
-![Sabhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabhya1024&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabhya1024&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
 </div>
 
