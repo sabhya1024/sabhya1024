@@ -14,9 +14,9 @@
 
 ## About
 
-Computer Science student at NIT Hamirpur (CGPA: 8.36) with a focus on secure full-stack development and application security. I build with the MERN stack and approach every project with an attacker's mindset — authentication, input validation, rate limiting, and OWASP Top 10 mitigations aren't afterthoughts, they're part of the design.
+Computer Science student at NIT Hamirpur (CGPA: 8.42) with a focus on secure full-stack development and application security. I build with the MERN stack and approach every project with an attacker's mindset — authentication, input validation, rate limiting, and OWASP Top 10 mitigations aren't afterthoughts, they're part of the design.
 
-Incoming Security Intern at an MNC (joining June 2025).
+Incoming Security Intern at DELL TECHNOLOGIES (joining June 2025).
 
 ---
 
