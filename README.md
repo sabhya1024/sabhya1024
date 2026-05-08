@@ -16,7 +16,7 @@
 
 Computer Science student at **NIT Hamirpur** (CGPA: 8.42/10) focused on the intersection of full-stack development and application security. I build production-grade MERN applications with security embedded from the ground up — not bolted on after.
 
-Incoming **Security Intern at DELL TECHNOLOGIES** — joining June 2025.
+Incoming **SWE Intern at DELL TECHNOLOGIES** — joining June 2025.
 
 ---
 
