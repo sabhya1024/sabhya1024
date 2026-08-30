@@ -46,7 +46,7 @@ OWASP Top 10 · Penetration Testing · Vulnerability Assessment · Digital Foren
 
 ## Featured Projects
 
-### 🔐 [Secure MERN Blog Platform](https://github.com/sabhya1024/blog)
+### 🔐 [Secure MERN Blog Platform](https://github.com/sabhya1024/secureblog)
 Full-stack blogging platform built specifically for cybersecurity writeups and CTF solutions.
 
 | Security Measure | Implementation |
